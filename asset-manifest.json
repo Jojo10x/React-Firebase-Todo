@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jojo10x/React-Firebase-Todo.git/static/css/main.61f8772c.css",
+    "main.js": "/Jojo10x/React-Firebase-Todo.git/static/js/main.494cb328.js",
+    "index.html": "/Jojo10x/React-Firebase-Todo.git/index.html",
+    "main.61f8772c.css.map": "/Jojo10x/React-Firebase-Todo.git/static/css/main.61f8772c.css.map",
+    "main.494cb328.js.map": "/Jojo10x/React-Firebase-Todo.git/static/js/main.494cb328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f8772c.css",
+    "static/js/main.494cb328.js"
+  ]
+}
